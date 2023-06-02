@@ -6,7 +6,6 @@
 int main(){
     int matriz[fil][col];
 
-
     for(int i;i<3;i++){
         for(int j=0;j<3;j++){
             printf("Ingrese el numero de la posicion %d, %d : ",i,j);
